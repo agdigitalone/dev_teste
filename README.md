@@ -33,6 +33,6 @@ Este teste tem a finalidade de filtrar pessoas capacitadas para a vaga de desenv
 
 > Teste tem um prazo de 7 dias corridos  caso não tenha feito todo o teste envie da mesma forma pois vamos avaliar a qualidade do que foi feito
 
-> para criar o as talas esta liberado o uso de bibliotecas e ou ate templates como Admin LTE, CoreUI, SB Admin e outros.
+> Para criar o as talas está liberado o uso de bibliotecas e ou ate templates como Admin LTE, CoreUI, SB Admin e outros.
 
->Qualquer duvida manda e-mail para contato@digitalone.com.br   
+> Qualquer dúvida manda e-mail para contato@digitalone.com.br   
