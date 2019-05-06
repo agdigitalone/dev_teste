@@ -37,4 +37,6 @@ Este teste tem a finalidade de filtrar pessoas capacitadas para a vaga de desenv
 
 > Qualquer dúvida manda e-mail para contato@digitalone.com.br
 
-> Lembre-se de ir comitando para que possamos acompanhar a sua linha de raciocínio. 
+> Lembre-se de fazer prquenos Commits para que possamos acompanhar a sua linha de raciocínio. 
+
+> Ao concluir ou chegar a data limite envie para contato@digitalone.com.br
