@@ -35,4 +35,6 @@ Este teste tem a finalidade de filtrar pessoas capacitadas para a vaga de desenv
 
 > Para criar o as talas está liberado o uso de bibliotecas e ou ate templates como Admin LTE, CoreUI, SB Admin e outros.
 
-> Qualquer dúvida manda e-mail para contato@digitalone.com.br   
+> Qualquer dúvida manda e-mail para contato@digitalone.com.br
+
+> Lembre-se de ir comitando para que possamos acompanhar a sua linha de raciocínio. 
