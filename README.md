@@ -14,7 +14,7 @@ Este teste tem a finalidade de filtrar pessoas capacitadas para a vaga de desenv
  "title": "título do post",
  "resume": "resumo de até 150 caracteres",
 "content": "conteúdo do post",
- "imgUrl": "url aleatória de um imagem como essa [https://source.unsplash.com/640x640/?trees](https://source.unsplash.com/640x640/?trees)",
+ "imgUrl": "url aleatória de um imagem como essa https://source.unsplash.com/640x640/?trees",
  "createAt": "data de criação do post",
  "author": { "dados do usuário responsável pelo post" }
  }
